@@ -9,7 +9,6 @@ if condition:
 '''
 #Simple Examples of if in Action
 
-
 #Example 1: Checking a number
 num = 10
 if num > 0:

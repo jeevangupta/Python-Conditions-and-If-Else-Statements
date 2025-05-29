@@ -25,6 +25,8 @@ if not is_logged_in:
     print("Please log in to continue")
 
 
+#
+#
 # Example 1: Using and and or:
 user = "admin"
 is_active = True
@@ -33,6 +35,8 @@ if (user == "admin" or user == "editor") and is_active:
 else:
     print("Access denied")
 
+#
+#
 # Example 2: Using not with and:
 has_permission = False
 if not (age < 18 and has_permission == False):
@@ -41,6 +45,7 @@ else:
     print("Not allowed") 
 
 
+#
 # Example 3: Complex Admission Criteria
 has_high_school_diploma = True
 gpa = 3.8
@@ -59,6 +64,7 @@ Output -> Congratulations! You are admitted.
 '''
 
 
+#
 # Example 5: Validating User Input for a Password
 password = "Pass123!"
 
@@ -75,6 +81,7 @@ Output -> Password is strong.
 '''
 
 
+#
 # Example 6: Checking if a List is Not Empty
 my_list = []
 

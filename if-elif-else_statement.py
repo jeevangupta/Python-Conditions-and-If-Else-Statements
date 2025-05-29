@@ -21,7 +21,6 @@ End of grading process.
 '''
 
 
-
 # Example 2: Even or Odd Number
 number = 9
 

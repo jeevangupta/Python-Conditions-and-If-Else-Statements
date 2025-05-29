@@ -7,6 +7,8 @@ if age >= 18:
 
 # Using pass in an if-else Statement
 
+
+#
 # Example 1: Placeholder in an if block
 '''
 Imagine you're designing a feature for a user management system. 
@@ -33,7 +35,7 @@ Program continues...
 '''
 
 
-
+#
 # Example 2: Placeholder in an else block
 '''
 Sometimes, you only need to act on a specific condition, and if that condition isn't met, 
@@ -54,7 +56,7 @@ Output: Temperature check complete.
 '''
 
 
-
+#
 # Example 3: Using pass in an elif chain
 '''
 You can use pass within any part of an if-elif-else chain to mark sections that are yet 
@@ -77,3 +79,4 @@ print("User login flow concluded.")
 '''
 Output: User login flow concluded.
 '''
+

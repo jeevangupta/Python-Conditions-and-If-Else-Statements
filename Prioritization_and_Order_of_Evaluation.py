@@ -1,7 +1,7 @@
 
 # Consider this example where the order is slightly off:
 age = 25
-
+#
 # Incorrect order for a typical age categorization
 if age >= 18:
     print("Eligible to vote.")
@@ -19,6 +19,7 @@ is never even checked.
 '''
 
 
+#
 # Corrected Order:
 age = 25
 
